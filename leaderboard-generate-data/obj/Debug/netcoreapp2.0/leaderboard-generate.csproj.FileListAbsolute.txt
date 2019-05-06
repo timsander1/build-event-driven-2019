@@ -1,0 +1,11 @@
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\bin\Debug\netcoreapp2.0\leaderboard-generate.deps.json
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\bin\Debug\netcoreapp2.0\leaderboard-generate.runtimeconfig.json
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\bin\Debug\netcoreapp2.0\leaderboard-generate.runtimeconfig.dev.json
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\bin\Debug\netcoreapp2.0\leaderboard-generate.dll
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\bin\Debug\netcoreapp2.0\leaderboard-generate.pdb
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\obj\Debug\netcoreapp2.0\leaderboard-generate.csprojAssemblyReference.cache
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\obj\Debug\netcoreapp2.0\leaderboard-generate.csproj.CoreCompileInputs.cache
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\obj\Debug\netcoreapp2.0\leaderboard-generate.AssemblyInfoInputs.cache
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\obj\Debug\netcoreapp2.0\leaderboard-generate.AssemblyInfo.cs
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\obj\Debug\netcoreapp2.0\leaderboard-generate.dll
+C:\Users\tisande\Documents\BuildDemos-2019\Leaderboard-sample\leaderboard-generate\obj\Debug\netcoreapp2.0\leaderboard-generate.pdb
