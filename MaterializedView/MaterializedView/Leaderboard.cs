@@ -24,7 +24,7 @@ namespace LeaderboardChangeFeed
 
         public List<Player> sortLeaderboard(List<Player> playersUnranked)
         {
-            List<Player> playersRanked = playersUnranked.OrderBy(i => i.score).Take(10).ToList();
+            List<Player> playersRanked = playersUnranked.OrderByDescending(i => i.score).Take(10).ToList();
             return playersRanked;
         }
 
